@@ -8,4 +8,3 @@ This repository contains the ASUS Zenfone 5 (T00F/T00J) device files for Android
 [//]: # (If you are moving this repository to GitHub, please update the URL's with the GitHub profiles URL!)
 
 * **Douglas Gadêlha** ([@dgadelha](https://github.com/dgadelha/))
-# android_device_asus_T00F
